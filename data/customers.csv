@@ -1,0 +1,101 @@
+customer_id,customer_name,segment,registration_date,avg_order_value,order_frequency_monthly,total_orders,customer_lifetime_value,preferred_delivery_time,location_type
+CUST_0001,Morgan-Schwartz,high_value,2025-01-08,317.47,18.0,12,68629.91,afternoon,commercial
+CUST_0002,Phelps-Villarreal,low_value,2024-06-25,42.73,1.3,0,688.87,evening,commercial
+CUST_0003,Sims-Clay,low_value,2024-09-12,27.13,1.7,2,566.16,evening,commercial
+CUST_0004,"Johnson, Jones and Welch",medium_value,2025-07-25,147.33,10.2,11,18121.28,evening,industrial
+CUST_0005,Francis Group,low_value,2025-09-05,13.35,5.6,6,889.68,morning,residential
+CUST_0006,"Padilla, Garcia and Jackson",low_value,2024-04-27,55.42,2.6,1,1716.41,afternoon,industrial
+CUST_0007,Williams Inc,medium_value,2024-04-23,89.36,12.2,15,13134.23,morning,commercial
+CUST_0008,Jordan-Sanchez,low_value,2024-07-18,31.58,2.8,4,1047.62,evening,residential
+CUST_0009,"Sparks, Jackson and Miller",medium_value,2025-06-18,64.81,17.2,16,13356.17,morning,commercial
+CUST_0010,"Vega, Jimenez and Aguilar",low_value,2024-03-09,52.47,7.7,6,4823.56,morning,residential
+CUST_0011,"King, Scott and Smith",low_value,2025-05-01,53.43,7.1,8,4520.34,morning,commercial
+CUST_0012,Byrd-Moore,high_value,2024-08-09,349.61,16.4,22,68690.25,afternoon,commercial
+CUST_0013,Huerta-Evans,medium_value,2025-08-24,51.58,17.4,11,10744.47,morning,commercial
+CUST_0014,"Wright, Bruce and Gonzalez",low_value,2024-06-28,43.17,7.1,9,3677.77,morning,commercial
+CUST_0015,Rodriguez-James,low_value,2024-06-10,10.19,2.8,4,345.2,morning,commercial
+CUST_0016,Haney-Phillips,medium_value,2025-09-04,80.39,13.1,20,12644.24,evening,residential
+CUST_0017,"Foster, Smith and Grimes",medium_value,2025-04-12,147.11,19.7,20,34755.98,evening,commercial
+CUST_0018,Lozano Ltd,medium_value,2024-09-18,147.2,7.1,5,12615.59,evening,commercial
+CUST_0019,Parsons-Hall,low_value,2025-04-29,44.53,4.8,6,2578.4,morning,industrial
+CUST_0020,Fields PLC,medium_value,2024-03-22,76.51,13.6,15,12448.1,morning,commercial
+CUST_0021,"Saunders, Becker and Taylor",medium_value,2023-12-01,135.88,14.8,13,24094.35,afternoon,residential
+CUST_0022,"Lucas, Parker and Alexander",medium_value,2024-11-18,51.56,9.8,18,6047.78,evening,residential
+CUST_0023,"Anderson, Browning and Murphy",low_value,2024-07-21,25.2,2.9,4,863.66,afternoon,commercial
+CUST_0024,Anderson PLC,high_value,2025-06-22,323.26,17.3,8,67214.83,evening,industrial
+CUST_0025,Schmidt-Mcintyre,medium_value,2025-05-20,80.84,18.2,23,17609.63,afternoon,residential
+CUST_0026,Sloan-Raymond,low_value,2025-08-28,25.03,2.0,2,614.96,morning,commercial
+CUST_0027,Francis-Morgan,medium_value,2023-12-15,78.89,7.6,7,7178.82,evening,industrial
+CUST_0028,Taylor and Sons,low_value,2025-06-10,24.8,2.7,2,807.48,morning,residential
+CUST_0029,"Craig, Sanders and Singleton",medium_value,2024-11-01,110.54,15.6,24,20669.93,morning,commercial
+CUST_0030,Gibbs Inc,medium_value,2024-04-02,71.26,10.6,20,9077.43,evening,commercial
+CUST_0031,Gibson Ltd,medium_value,2025-03-21,88.36,5.2,5,5551.45,evening,residential
+CUST_0032,Richards-Carson,medium_value,2025-08-08,56.41,8.4,8,5682.45,afternoon,commercial
+CUST_0033,Leonard Group,medium_value,2023-10-10,83.59,7.0,9,7035.29,afternoon,residential
+CUST_0034,"Murphy, Bishop and Holland",medium_value,2024-12-28,132.13,12.7,16,20100.74,evening,residential
+CUST_0035,Blankenship-Turner,medium_value,2024-07-16,116.76,15.6,22,21830.74,evening,residential
+CUST_0036,Williams Inc,medium_value,2024-05-01,75.05,6.2,10,5585.07,evening,industrial
+CUST_0037,Wilson-Young,high_value,2024-10-18,303.27,26.9,26,97868.22,evening,commercial
+CUST_0038,Chavez-Santiago,low_value,2025-03-17,31.27,5.2,7,1961.66,morning,commercial
+CUST_0039,"Barnes, Newton and Moore",medium_value,2024-07-20,90.4,5.2,3,5687.24,evening,industrial
+CUST_0040,Bass PLC,medium_value,2024-07-15,73.58,10.0,8,8796.37,morning,residential
+CUST_0041,Johnson-Wood,medium_value,2024-08-10,90.37,10.9,17,11867.08,morning,commercial
+CUST_0042,Foley Inc,low_value,2025-09-07,12.47,7.2,13,1081.46,morning,commercial
+CUST_0043,Stephens-Levine,medium_value,2024-06-09,79.63,11.2,17,10727.83,morning,residential
+CUST_0044,Hill-Donaldson,medium_value,2025-08-14,51.96,16.0,16,9979.04,morning,residential
+CUST_0045,Davis-Lewis,medium_value,2024-12-31,111.31,13.0,16,17318.01,morning,commercial
+CUST_0046,Williams LLC,low_value,2024-03-17,39.3,6.5,9,3041.98,morning,commercial
+CUST_0047,Buchanan and Sons,low_value,2023-11-11,43.34,7.3,8,3796.44,morning,industrial
+CUST_0048,"Clark, Robinson and Kane",high_value,2024-05-18,331.91,23.2,18,92460.24,evening,commercial
+CUST_0049,Kramer PLC,high_value,2023-09-24,273.86,16.5,31,54160.08,evening,residential
+CUST_0050,Huerta PLC,high_value,2024-03-22,217.09,20.7,29,53977.21,afternoon,residential
+CUST_0051,Rodriguez Inc,medium_value,2023-12-27,70.85,16.5,31,14008.4,morning,commercial
+CUST_0052,Tyler-Young,low_value,2024-05-15,41.93,3.7,2,1868.77,afternoon,residential
+CUST_0053,Baker and Sons,high_value,2025-03-16,339.1,21.6,42,87797.56,evening,commercial
+CUST_0054,"Wilson, Brown and West",medium_value,2024-06-12,88.84,17.3,15,18454.55,evening,commercial
+CUST_0055,"Rodriguez, Gordon and Dougherty",low_value,2023-10-23,53.31,7.2,13,4627.21,evening,residential
+CUST_0056,"Boyd, Ellis and Maynard",medium_value,2023-11-05,77.87,18.6,16,17418.5,afternoon,commercial
+CUST_0057,Boone-Simmons,medium_value,2023-12-09,137.41,15.8,28,26077.94,afternoon,commercial
+CUST_0058,"Browning, Jones and Miller",low_value,2024-12-09,30.98,1.7,2,623.14,morning,commercial
+CUST_0059,Martinez PLC,medium_value,2024-12-27,57.88,9.3,13,6462.42,evening,commercial
+CUST_0060,"Joseph, James and Harper",medium_value,2024-04-24,59.56,7.5,12,5341.43,evening,commercial
+CUST_0061,"Jacobs, Garcia and Miles",medium_value,2025-06-05,121.47,13.5,15,19703.63,afternoon,residential
+CUST_0062,"Rich, Arnold and Glenn",high_value,2024-07-31,210.41,18.6,29,46999.31,afternoon,residential
+CUST_0063,Gutierrez Group,medium_value,2024-07-09,141.7,10.9,13,18567.39,evening,residential
+CUST_0064,"Davis, Simmons and Ortega",medium_value,2024-06-21,79.07,8.5,6,8068.13,morning,residential
+CUST_0065,Mcdaniel Group,medium_value,2023-11-10,129.38,9.0,10,13962.47,morning,commercial
+CUST_0066,Davis Inc,medium_value,2025-03-18,84.66,17.5,24,17817.62,morning,residential
+CUST_0067,Cain-Hawkins,high_value,2024-11-23,214.36,16.4,13,42222.72,morning,residential
+CUST_0068,"Hoffman, Santiago and Jenkins",medium_value,2025-06-20,125.32,9.4,17,14158.98,morning,residential
+CUST_0069,Parrish-Griffith,medium_value,2025-08-28,62.81,11.6,19,8746.59,morning,residential
+CUST_0070,"Edwards, Garcia and Romero",medium_value,2024-01-12,134.61,14.3,20,23045.57,evening,commercial
+CUST_0071,Walker-Rodriguez,medium_value,2025-05-31,123.41,12.7,14,18842.99,afternoon,residential
+CUST_0072,Wilson-Ramirez,medium_value,2024-03-05,63.97,10.9,16,8331.39,evening,commercial
+CUST_0073,Bruce-Villegas,high_value,2025-05-11,350.41,15.7,24,65956.93,evening,commercial
+CUST_0074,"Leonard, Hawkins and Lynch",high_value,2025-01-14,359.45,21.9,15,94268.56,evening,residential
+CUST_0075,"Adams, White and Park",medium_value,2024-05-04,105.04,6.8,3,8610.94,evening,residential
+CUST_0076,Bell-White,low_value,2024-01-04,45.59,1.4,0,770.91,morning,residential
+CUST_0077,"Morales, Thomas and Schultz",low_value,2023-10-14,55.36,5.9,4,3910.98,morning,commercial
+CUST_0078,"Moreno, Bennett and Chavez",low_value,2024-01-14,38.49,3.1,3,1451.24,evening,commercial
+CUST_0079,Griffith-Frank,medium_value,2024-11-09,146.38,19.0,27,33308.48,afternoon,commercial
+CUST_0080,Ware and Sons,low_value,2024-01-14,14.17,1.0,0,176.79,afternoon,commercial
+CUST_0081,"Williams, Miller and Ramos",low_value,2024-07-27,28.35,4.8,7,1638.85,afternoon,residential
+CUST_0082,"Ramos, Nelson and Fischer",high_value,2023-12-14,222.14,27.2,45,72447.88,evening,residential
+CUST_0083,Rodriguez-Gregory,medium_value,2024-11-27,133.7,10.6,14,17006.31,morning,residential
+CUST_0084,"Estrada, Williams and Foster",medium_value,2024-12-02,65.07,14.3,11,11173.2,morning,commercial
+CUST_0085,Harris and Sons,medium_value,2025-04-04,147.47,8.9,10,15716.55,morning,residential
+CUST_0086,Roberts-Wilson,low_value,2024-09-19,39.33,5.3,7,2497.24,afternoon,residential
+CUST_0087,Thompson-James,high_value,2025-02-16,239.68,26.0,41,74749.71,evening,residential
+CUST_0088,"Hansen, Barnett and Gomez",high_value,2024-07-07,224.14,24.4,34,65673.12,morning,commercial
+CUST_0089,"Williams, Smith and Morse",low_value,2025-06-12,11.81,7.9,5,1118.17,afternoon,residential
+CUST_0090,"Patterson, Sullivan and Bowman",medium_value,2024-04-20,67.44,16.9,12,13654.6,evening,commercial
+CUST_0091,Smith-Nguyen,low_value,2025-04-28,51.19,4.4,5,2682.77,evening,residential
+CUST_0092,"Stevens, Norris and Cox",medium_value,2024-08-05,97.33,16.2,31,18879.01,afternoon,commercial
+CUST_0093,Sanchez PLC,medium_value,2024-07-10,82.37,12.2,11,12077.85,morning,residential
+CUST_0094,Foster LLC,medium_value,2025-03-19,79.78,5.8,6,5583.58,evening,residential
+CUST_0095,Cook and Sons,low_value,2023-11-16,58.07,4.0,3,2779.6,afternoon,residential
+CUST_0096,"Wilson, Hicks and Bullock",medium_value,2024-06-03,64.47,14.2,15,10960.33,evening,residential
+CUST_0097,"Mullen, Brewer and Hernandez",low_value,2023-12-06,11.18,3.6,2,486.58,evening,industrial
+CUST_0098,Gonzalez-Morrison,high_value,2025-03-29,325.07,21.4,29,83318.6,evening,residential
+CUST_0099,"Jones, Bean and Burton",medium_value,2024-08-25,145.97,11.9,14,20803.44,morning,commercial
+CUST_0100,"Wolf, Cole and Glass",medium_value,2024-11-07,64.96,11.7,21,9156.69,morning,industrial
