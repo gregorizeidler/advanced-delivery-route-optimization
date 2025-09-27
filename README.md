@@ -7,7 +7,7 @@
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-orange.svg?style=for-the-badge)
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-green.svg?style=for-the-badge)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Streamlit-red.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Capstone%20Ready-success.svg?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Capstone%20Ready-success.svg?style=for-the-badge) 
 
 ---
 
